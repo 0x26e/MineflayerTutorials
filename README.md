@@ -5,4 +5,4 @@ To run these scripts, you must set up the proper requirements for that specific 
 
 All of these scripts require Node.js and the Mineflayer library to run.
 
-You can join the [0x26e discord] for help, or join the [Mineflayer discord](https://discord.gg/PXbmVHkKXh) for more general help.
+You can join the [0x26e discord](https://discord.gg/FMqnBQ5j6C) for help, or join the [Mineflayer discord](https://discord.gg/PXbmVHkKXh) for more general help.
