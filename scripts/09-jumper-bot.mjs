@@ -4,7 +4,7 @@ import chalk from "chalk";
 // Setup global bot arguments
 let botArgs = {
     host: 'localhost',
-    port: '62026',
+    port: '12345',
     version: '1.8.9'
 };
 
