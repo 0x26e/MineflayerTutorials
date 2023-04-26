@@ -1,0 +1,15 @@
+{
+  "name": "mineflayerbot_0x26e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "mineflayer": "^4.1.0"
+  }
+}
